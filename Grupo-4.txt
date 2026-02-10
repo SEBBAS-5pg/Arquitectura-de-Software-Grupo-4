@@ -1,0 +1,5 @@
+- Enlace GIT:
+   - https://github.com/SEBBAS-5pg/Arquitectura-de-Software-Grupo-4.git
+
+- Enlace Diapositivas:
+   - https://docs.google.com/presentation/d/1Hpbjtq77VxN3e49U7nbbwGa7HwAIsHf8MYAkD7M5Uos/edit?usp=sharing
